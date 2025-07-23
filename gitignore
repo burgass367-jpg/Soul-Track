@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# React Native
+ios/Pods/
+*.xcworkspace
+*.xcodeproj
+*.xcuserstate
+
+# Android
+android/.gradle/
+android/app/build/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Env
+.env
