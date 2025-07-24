@@ -1,4 +1,6 @@
-# Soul Track
+<p align="center">
+  <img src="docs/название_файла.png" alt="Soul Track Symbol" width="300"/>
+</p># Soul Track
 
 **Soul Track** — это open-source приложение для отслеживания эмоционального состояния, глубокой внутренней работы и поддержки в доверенном кругу.
 
