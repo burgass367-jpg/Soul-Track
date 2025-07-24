@@ -1,4 +1,6 @@
-# 📁 Soul Track: Документация
+<p align="center">
+  <img src="docs/soul-logo.png" alt="Soul Track Symbol" width="300"/>
+</p># 📁 Soul Track: Документация
 
 Здесь будут храниться:
 - Концепция приложения
